@@ -1,0 +1,13 @@
+C:\Users\katym\source\repos\AirportTestSimulator\bin\Debug\AirportTestSimulator.exe.config
+C:\Users\katym\source\repos\AirportTestSimulator\bin\Debug\AirportTestSimulator.exe
+C:\Users\katym\source\repos\AirportTestSimulator\bin\Debug\AirportTestSimulator.pdb
+C:\Users\katym\source\repos\AirportTestSimulator\obj\Debug\AirportTestSimulator.csproj.AssemblyReference.cache
+C:\Users\katym\source\repos\AirportTestSimulator\obj\Debug\AirportTestSimulator.EditFlight.resources
+C:\Users\katym\source\repos\AirportTestSimulator\obj\Debug\AirportTestSimulator.AddFlight.resources
+C:\Users\katym\source\repos\AirportTestSimulator\obj\Debug\AirportTestSimulator.Properties.Resources.resources
+C:\Users\katym\source\repos\AirportTestSimulator\obj\Debug\AirportTestSimulator.csproj.GenerateResource.cache
+C:\Users\katym\source\repos\AirportTestSimulator\obj\Debug\AirportTestSimulator.csproj.CoreCompileInputs.cache
+C:\Users\katym\source\repos\AirportTestSimulator\obj\Debug\AirportTestSimulator.exe
+C:\Users\katym\source\repos\AirportTestSimulator\obj\Debug\AirportTestSimulator.pdb
+C:\Users\katym\source\repos\AirportTestSimulator\obj\Debug\AirportTestSimulator.exe.config
+C:\Users\katym\source\repos\AirportTestSimulator\obj\Debug\AirportTestSimulator.MainScreen.resources
